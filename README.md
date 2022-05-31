@@ -28,7 +28,7 @@
 
 
 ## About
-This is my second app published on playstore and this was the biggest project at that time for me. When i was in the mid of Android App Development journey i developed this app in one week. The journey was quite struggling with so much of research on web. I wanted to create this app from scratch without using any library . So , I reasearched so much but i dont even got a single youtube video to create a full photo editor app from scratch. Also i have searched on platform like Udemy but i got nothing. Now , I have only one option that is stackoverflow and github. I started searching on google and there also i dont even find a single whole project which tells me to how to start from scratch.
+This is my second app published on playstore and this was the biggest project at that time for me. When i was in the mid of Android App Development journey i developed this app in one week. The journey was quite hustling with so much of research on web. I wanted to create this app from scratch without using any library . So , I reasearched so much but i dont even got a single youtube video to create a full photo editor app from scratch. Also i have searched on platform like Udemy but i got nothing. Now , I have only one option that is stackoverflow and github. I started searching on google and there also i dont even find a single whole project which tells me to how to start from scratch.
 
 Now , I break the steps of development and started searching for initial need for the app like:-
 
