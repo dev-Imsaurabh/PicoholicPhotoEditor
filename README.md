@@ -1,7 +1,7 @@
 <p>
     <h1 align="center">
         <a href="https://play.google.com/store/apps/details?id=com.mac.picoholic">
-            Picoholic: Photo Editor, Photo on photo,No crop dp (JAVA) by imSoloDeveloper
+            Picoholic: Photo Editor, Photo on photo,No crop dp (JAVA) by Saurabh Kumar<br>PlayStore handle :- imSoloDeveloper
         </a>
     </h1>
 </p>
