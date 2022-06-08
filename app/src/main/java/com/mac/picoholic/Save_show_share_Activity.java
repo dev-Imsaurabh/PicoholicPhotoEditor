@@ -126,7 +126,7 @@ public class Save_show_share_Activity extends AppCompatActivity {
         rate_us_Btn.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
-                Intent intent4 = new Intent(Intent.ACTION_VIEW, Uri.parse("market://details?id=com."+"com.mac.picoholic"));
+                Intent intent4 = new Intent(Intent.ACTION_VIEW, Uri.parse("market://details?id="+getPackageName()));
                 startActivity(intent4);
             }
         });

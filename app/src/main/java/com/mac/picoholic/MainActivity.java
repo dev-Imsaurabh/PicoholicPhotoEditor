@@ -248,9 +248,15 @@ public class MainActivity extends AppCompatActivity {
         showBtn.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View view) {
+                if(panelImageView.getDrawable()!=null){
+                    show();
 
+                }else if(panelImageView.getDrawable()==null&&addImageView.getDrawable()!=null){
+                    show();
+                }else{
+                    Toast.makeText(MainActivity.this, "Please select a image before saving", Toast.LENGTH_SHORT).show();
 
-                show();
+                }
 
 
             }
@@ -424,6 +430,7 @@ public class MainActivity extends AppCompatActivity {
 //            blurLayout.startBlur();
             // start cropping activity for pre-acquired image saved on the device
             CropImage.activity(ImageUri)
+                    .setOutputCompressFormat(Bitmap.CompressFormat.PNG)
                     .start(this);
 
 
